@@ -1,0 +1,336 @@
+.header_lnk a {
+  font-size: 11px;
+  color: #ffffff;
+  font-family: "Trebuchet MS";
+  text-decoration: none;
+}
+.header_lnk a:hover {
+  font-size: 11px;
+  color: #ffffff;
+  font-family: "Trebuchet MS";
+  text-decoration: underline;
+}
+.txtSubHeading2 {
+  font-size: 16px;
+  color: #cc6600;
+  font: bold;
+}
+.txtSubHeading1 {
+  font-size: 12px;
+  color: #cc6600;
+  font: bold;
+}
+.txtSubHeading {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #333333;
+  font: bold;
+}
+.MenuTxt1 a {
+  background-image: url("images/1_btn.jpg");
+  padding-left: 0;
+  margin-left: 0;
+}
+.MenuTxt1 a:hover {
+  background-image: url("1_over.jpg");
+  padding-left: 0;
+  margin-left: 0;
+}
+.MenuTxt a {
+  vertical-align: middle;
+  font-family: Verdana;
+  font-size: 11px;
+  color: #000000;
+  text-decoration: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+.MenuTxt a:hover {
+  vertical-align: middle;
+  font-family: Verdana;
+  font-size: 11px;
+  color: #333333;
+  text-decoration: underline;
+  padding-left: 0;
+  margin-left: 0;
+}
+.News a {
+  vertical-align: middle;
+  font: bold;
+  font-family: Verdana;
+  font-size: 11px;
+  color: #000000;
+  text-decoration: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+.News a:hover {
+  vertical-align: middle;
+  font-family: Verdana;
+  font: bold;
+  font-size: 11px;
+  color: #333333;
+  text-decoration: underline;
+  padding-left: 0;
+  margin-left: 0;
+}
+.txtMN {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+  font: bold;
+  color: #000000;
+}
+.mainheading {
+  font-size: 24px;
+  color: #03a1fa;
+  font: bold;
+}
+.heading {
+  font-family: "Trebuchet MS";
+  font-size: 22px;
+  color: #333333;
+  font: bold;
+}
+.normal_txt {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #999999;
+}
+.footer_txt a {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 10px;
+  color: #999999;
+}
+.footer_txt a:hover {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  text-decoration: underline;
+  color: #333333;
+}
+.xpert_txt {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 12px;
+  color: #999999;
+}
+.xpert_txt a {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 12px;
+  color: #999999;
+}
+.xpert_txt a:hover {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-decoration: underline;
+  color: #333333;
+}
+.paragraphText {
+  font-family: Verdana;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: normal;
+  color: #666666;
+  text-decoration: none;
+}
+.SectionHeading {
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: normal;
+  color: #990000;
+  text-decoration: none;
+  letter-spacing: 0.1mm;
+}
+.ServicesText {
+  font-family: Verdana;
+  font-size: 12px;
+  font-weight: bold;
+  color: #336699;
+  letter-spacing: 0.1mm;
+  font-style: normal;
+  line-height: normal;
+}
+.ServicesTextNormal {
+  font-family: Verdana;
+  font-size: 12px;
+  font-weight: normal;
+  color: #336699;
+  letter-spacing: 0.1mm;
+  font-style: normal;
+  line-height: normal;
+}
+A.ServicesText:link {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #336699;
+  letter-spacing: 0.1mm;
+  font-style: normal;
+  line-height: normal;
+}
+A.ServicesText:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: blink;
+  color: #ff6600;
+  letter-spacing: 0.1mm;
+  font-style: normal;
+  line-height: normal;
+}
+A.ServicesText:visited {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #336699;
+  letter-spacing: 0.1mm;
+  font-style: normal;
+  line-height: normal;
+}
+.NewsText {
+  font-family: Verdana;
+  font-size: 10px;
+  font-weight: normal;
+  color: #666666;
+  text-decoration: none;
+  text-indent: 0;
+  letter-spacing: normal;
+  text-align: left;
+  vertical-align: top;
+  word-spacing: normal;
+  white-space: normal;
+}
+.ProductsText {
+  font-family: "Trebuchet MS";
+  font-size: 10px;
+  font-weight: normal;
+  color: #666666;
+  text-decoration: none;
+}
+A.NewsText:link {
+  font-family: Verdana;
+  font-size: 10px;
+  font-weight: normal;
+  color: #006699;
+  text-decoration: none;
+  text-indent: 0;
+  letter-spacing: normal;
+  text-align: left;
+  vertical-align: top;
+  word-spacing: normal;
+  white-space: normal;
+}
+A.NewsText:visited {
+  font-family: Verdana;
+  font-size: 10px;
+  color: #336699;
+  text-decoration: none;
+  letter-spacing: normal;
+  text-align: left;
+  vertical-align: top;
+}
+A.NewsText:hover {
+  font-family: Verdana;
+  font-size: 10px;
+  color: #333333;
+  text-decoration: none;
+  letter-spacing: normal;
+  text-align: left;
+  vertical-align: top;
+  font-weight: bold;
+}
+.Menu {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: normal;
+  color: #333333;
+  text-decoration: none;
+}
+a.Main:link {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: normal;
+  color: #333333;
+  text-decoration: none;
+}
+a.Main:hover {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+}
+.HeadingStyle {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #990000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.SecondHeading {
+  font-family: Verdana;
+  font-size: 13px;
+  color: #3399ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.ThirdHeading {
+  font-family: Verdana;
+  font-size: 11px;
+  font-weight: bold;
+  color: #333333;
+  text-decoration: none;
+}
+.BottomLinks {
+  font-family: Verdana;
+  font-size: 10px;
+  color: #999999;
+  text-decoration: none;
+}
+a.BottomLinks:link {
+  font-family: Verdana;
+  font-size: 10px;
+  color: #999999;
+  text-decoration: none;
+}
+a.BottomLinks:hover {
+  font-family: Verdana;
+  font-size: 10px;
+  color: #336699;
+  text-decoration: blink;
+  background-color: #ffffff;
+}
+.one {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #00ffcc;
+}
+.download {
+  line-height: 25px;
+}
+.download a {
+  color: #999999;
+  display: block;
+  background: transparent url("../images/download.png") no-repeat 100% 50%;
+  padding: 0 30px;
+  float: left;
+  text-decoration: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  margin-top: -4px;
+}
+.download a:hover {
+  color: #999999;
+  display: block;
+  background: transparent url("../images/download.png") no-repeat 100% 50%;
+  padding: 0 30px;
+  float: left;
+  text-decoration: blink;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  margin-top: -4px;
+}
